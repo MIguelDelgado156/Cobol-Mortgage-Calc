@@ -1,0 +1,5 @@
+001 Miguel Delgado 100000 035 12
+002 AnthonyDelgado 200000 023 45
+003 Paolo Gomez    500000 043 34
+004 Daniel Lopez   490095 014 59
+005 Brian Aucay    123900 109 99
